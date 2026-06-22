@@ -1,3 +1,7 @@
+#### Demo Video
+"https://drive.google.com/file/d/1J7cIiATxcdUZSt4mqSl7IXjd9ImcN-3O/view?usp=drive_link" 
+
+
 # TakeMeter: Evaluating Discourse Quality in r/soccer
 
 TakeMeter is a fine-tuned text classification system designed to evaluate the quality of discourse in online communities. This implementation targets **r/soccer**, a massive and highly active community discussing the 2026 FIFA World Cup and global football. By classifying comments, TakeMeter helps filter out low-effort banter to surface high-quality tactical analysis and separate off-pitch meta-discourse.
